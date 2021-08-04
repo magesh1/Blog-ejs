@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.container h4 {
+  color: blueviolet;
+}
+
+.container h4::first-letter {
+  text-transform: uppercase;
+}
