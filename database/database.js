@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const uri = "mongodb+srv://admin:admin@cluster0.we8kq.mongodb.net/Blog?retryWrites=true&w=majority"
+const uri = "mongodb+srv://username:userpassword@cluster0.we8kq.mongodb.net/dbname?retryWrites=true&w=majority"
 
 const rules = {
     useUnifiedTopology: true,
