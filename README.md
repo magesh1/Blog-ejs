@@ -12,5 +12,6 @@ Blog site with mongodb
 <li>On the Database folder change your mongodb id</li>
 <li>Type npm run or yarn run</li>
 <li>The browser will open and the app will run</li>
+  <li>welome</li>
 </ul>
 
